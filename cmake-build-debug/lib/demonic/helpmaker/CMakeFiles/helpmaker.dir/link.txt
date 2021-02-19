@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhelpmaker.a  CMakeFiles/helpmaker.dir/help.cpp.o
-/usr/bin/ranlib libhelpmaker.a
