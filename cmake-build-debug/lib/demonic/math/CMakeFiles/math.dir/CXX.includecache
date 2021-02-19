@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/demonic/CLionProjects/powerman/lib/demonic/math/math.cpp
+math.h
+/home/demonic/CLionProjects/powerman/lib/demonic/math/math.h
+
+/home/demonic/CLionProjects/powerman/lib/demonic/math/math.h
+iostream
+-
+chrono
+-
+

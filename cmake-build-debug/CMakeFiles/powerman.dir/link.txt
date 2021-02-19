@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/powerman.dir/src/powerman.cpp.o  -o powerman  lib/demonic/libdemonic.a lib/demonic/containers/libvectors.a lib/demonic/helpmaker/libhelpmaker.a lib/demonic/math/libmath.a lib/demonic/strings/libstrings.a 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/demonic/CLionProjects/powerman/lib/demonic/containers/vectors.cpp
+vectors.h
+/home/demonic/CLionProjects/powerman/lib/demonic/containers/vectors.h
+
+/home/demonic/CLionProjects/powerman/lib/demonic/containers/vectors.h
+iostream
+-
+vector
+-
+fstream
+-
+
